@@ -1,0 +1,3 @@
+we need a map to store each grocery & price so I define map , 
+we may do without list but i keep it to store price for each item.
+I need to declear a variable to store the sum of price for each item
